@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Santhosh 👋
 
-<!--
-**santhosh-data-analyst/santhosh-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst with a strong focus on SQL-driven analysis and business insights.  
+I work on real-world datasets to answer business questions related to sales, customers, and performance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- SQL (PostgreSQL)
+- Data Analysis & Reporting
+- Python (Pandas, NumPy)
+- Power BI, Excel
+- Business Metrics, KPI Analysis
+
+---
+
+## 📊 Featured Projects
+- **E-commerce SQL Analytics**
+  - Sales, customer, retention, and performance analysis using PostgreSQL
+  - Focus on real business questions and insights
+
+---
+
+## 📚 Currently Learning
+- Advanced SQL optimization
+- Python for data analysis
+- Business analytics case studies
+
+---
+
+## 📫 Connect
+- LinkedIn: (https://www.linkedin.com/in/santhosh-reddy-kallam-63bb5b22b/)
