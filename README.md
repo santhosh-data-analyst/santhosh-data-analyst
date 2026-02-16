@@ -18,13 +18,13 @@ I work on real-world datasets to answer business questions related to sales, cus
 - **E-commerce SQL Analytics**
   - Sales, customer, retention, and performance analysis using PostgreSQL
   - Focus on real business questions and insights
-  🔗 https://github.com/santhosh-data-analyst/sql-ecommerce-analytics
+  - 🔗 https://github.com/santhosh-data-analyst/sql-ecommerce-analytics
 
 - **Sales Performance & Profitability Analysis (Power BI)**
   - Profitability, discount leakage, and customer segmentation analysis  
   - DAX-based product and customer action framework  
   - Focus on margin erosion and revenue at risk
-  🔗 https://github.com/santhosh-data-analyst/Sales-Performance_and_Profitability-Analysis
+  - 🔗 https://github.com/santhosh-data-analyst/Sales-Performance_and_Profitability-Analysis
 
 ---
 
