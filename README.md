@@ -26,6 +26,12 @@ I work on real-world datasets to answer business questions related to sales, cus
   - Focus on margin erosion and revenue at risk
   - 🔗 https://github.com/santhosh-data-analyst/Sales-Performance_and_Profitability-Analysis
 
+- **IPL Match Analytics (Python · EDA)**
+  - Exploratory data analysis on IPL match and ball-by-ball data using Pandas and Matplotlib
+  - Death-over bowling analysis identifying M Theekshana as the most economical bowler (6.73 economy)
+  - Covers batting strike rates, team performance trends, and phase-wise match insights
+  - 🔗 https://github.com/santhosh-data-analyst/ipl-match-analytics
+  
 ---
 
 ## 📚 Currently Learning
