@@ -42,4 +42,4 @@ I work on real-world datasets to answer business questions related to sales, cus
 ---
 
 ## 📫 Connect
-- LinkedIn: (https://www.linkedin.com/in/santhosh-reddy-kallam-63bb5b22b/)
+- LinkedIn: (https://www.linkedin.com/in/santhosh-reddy-kallam/)
