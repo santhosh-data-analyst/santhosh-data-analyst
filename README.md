@@ -1,5 +1,7 @@
 # Santhosh Reddy Kallam
 
+![Profile Views](https://komarev.com/ghpvc/?username=santhoshreddykallam&style=flat-square&color=blue)
+
 **Data Analyst | Aspiring Data Engineer**  
 **SQL · Python · PySpark · Apache Airflow · PostgreSQL · Power BI**
 
