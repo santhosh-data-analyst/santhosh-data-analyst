@@ -119,6 +119,4 @@ Exploratory Data Analysis on **IPL 2008–2024**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santhosh%20Reddy-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/santhosh-reddy-kallam/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-santhoshreddykallam-181717?style=flat&logo=github)](https://github.com/santhoshreddykallam)
-
 [![Kaggle](https://img.shields.io/badge/Kaggle-santhoshreddykallam-20BEFF?style=flat&logo=kaggle)](https://www.kaggle.com/santhoshreddykallam)
